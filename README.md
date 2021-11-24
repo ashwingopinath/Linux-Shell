@@ -8,4 +8,4 @@ Custom terminal shell based on the POSIX architecture with integrated syscalls a
 #### Running the shell
 > ./turtle
 
-While inside the shell run help for more instructions on how to run commands on the shell
+While inside the shell type the command "help" for more instructions.
