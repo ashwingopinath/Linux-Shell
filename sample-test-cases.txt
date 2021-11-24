@@ -1,0 +1,19 @@
+mkdir test
+cd test
+rm test
+rmdir test
+echo "Hello"
+echo "Hello" > hello.txt
+cat hello.txt
+cd hello.txt
+ls
+cd .
+cd ..
+cd xyz (directory which doesn't exist)
+cat abc.txt
+sleep 10
+echo "Hello World" > abc.txt
+cp abc.txt def.txt
+cat abc.txt > xyz.txt
+cat hi.txt ;; echo "You know nothing Jon Snow"
+sleep 1 ;; echo "Hello" ;; sleep 2 ;; cat abc.txt ;; sleep 3 ;; ls -l
